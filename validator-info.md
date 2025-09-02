@@ -7,7 +7,7 @@ In order to verify the team members of your validator, please send a 0.01 ATONE 
 |-----------------------------------------------------------------|-------------------|---|---|---|---|---|---|
 |---|---|---|---|---|---|---|---|
 | Validator Name  | Validator Website | Validator Twitter Page | Region | GitHub Handles | E-mails | Discord Handles | Tx Hash |
-| Tanjira  | Tanjira.com   | https://twitter.com/Tanjirapr   | North America  | jtoba66, m3rryqold   |tanjiravalidator@gmail.com   | tanjira_58334 , jauziv  | A9149F9277A018369F85896AB295DAB17C50E3D9E8DDE39643518A0C9CB3CAA1  |
+| Tanjira  | Tanjira.com   | https://twitter.com/Tanjirapr   | North America, Canada | jtoba66, m3rryqold   |tanjiravalidator@gmail.com   | tanjira_58334 , jauziv  | A9149F9277A018369F85896AB295DAB17C50E3D9E8DDE39643518A0C9CB3CAA1  |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |
